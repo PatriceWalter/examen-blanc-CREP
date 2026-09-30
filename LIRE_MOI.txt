@@ -1,0 +1,18 @@
+CREP - EXAMENS BLANCS
+
+Extraire le ZIP. Les fichiers index.html, style.css, app.js, engine.js,
+bank.js et cours.pdf doivent rester ensemble dans le même dossier.
+
+Pour tester sur votre ordinateur : ouvrir index.html dans le navigateur.
+Pour GitHub : déposer les fichiers extraits à la racine du dépôt,
+et non le fichier ZIP lui-même. Le point d'entrée est index.html.
+
+Le logiciel est autonome, sans installation de dépendances.
+Le PDF cours.pdf est inclus pour les renvois aux pages des corrigés.
+Si vous rendez le dépôt ou le site public, le PDF sera aussi accessible.
+
+40 QCM, 40 cas terrain et 40 questions ouvertes par tirage.
+Validation : au moins 11/20 dans chacune des trois phases.
+Les réponses ouvertes se notent manuellement avec le barème fourni.
+Les cas terrain sont des simulations écrites.
+La session est conservée dans l'onglet, sans synchronisation entre appareils.
